@@ -28,7 +28,7 @@ def decrypt(encrypted_message, shift):
         else:
             # Non-alphabet characters remain the same
             decrypted_message += char
-    return decrypted_message
+      return decrypted_message
 
 # Main function to interact with the user
 def main():
