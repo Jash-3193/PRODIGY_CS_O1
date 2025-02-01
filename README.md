@@ -1,1 +1,1 @@
-This is the code of Ceasier Cipher which encrypt and decrypt the messages.
+This is the code of Ceasar Cipher which encrypt and decrypt the messages.
